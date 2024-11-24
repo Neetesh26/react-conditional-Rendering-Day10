@@ -1,3 +1,15 @@
+Day 10: 🔀 Conditional Rendering
+
+ Conditional rendering helps you control what gets displayed. Here’s an example:  
+jsx  
+{isLoggedIn ? <Dashboard /> : <Login />};  
+
+How are you handling conditionals in your app? #ReactJS #React30Challenge"
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
